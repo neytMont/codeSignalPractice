@@ -19,7 +19,7 @@ public class similar {
 			System.out.println(x + " "+ a[i] +"\n" + curr + " " + b[i]);
 			if(bList.contains(a[i])) {//look for the element
 			    Collections.swap(bList, x, curr);//swap
-			    continue;
+			    
 			}
 
 		    }

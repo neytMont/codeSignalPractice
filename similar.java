@@ -1,3 +1,5 @@
+//might be wrong in some cases
+//have to debug
 public class similar {
 	public boolean areSimilar(int[] a, int[] b) {
 	    if(Arrays.equals(a, b)){

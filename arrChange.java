@@ -1,4 +1,5 @@
 public class arrChange {
+	
 	public int arrayChange(int[] inputArray) {
 		int count = 0;//count variable
 		for(int i = 0; i < inputArray.length - 1; i++) {//loop through the array except the last element

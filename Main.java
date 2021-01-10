@@ -1,13 +1,10 @@
-
 public class Main {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/**2.
 		  	centuryFromYear cfn = new centuryFromYear();
 		  	System.out.println(cfn.century(1905));
 		*/
-		
 		/**3.
 		 	String ex = "hlbeeykoqqqqokyeeblh";
 			System.out.print(ex.length());
@@ -20,14 +17,12 @@ public class Main {
 				System.out.print("nah");
 			}
 		 */
-		
 		/**4.
 		 * 	int[] num = {-23, 4, -3, 8, -12};
 		adjacentElementsProduct aep = new adjacentElementsProduct();
 		System.out.print(aep.adjacent(num));
 		
 		 */
-
 		/**5.
 		 * shapeArea sa = new shapeArea();
 		System.out.print(sa.shape(3));
@@ -37,14 +32,12 @@ public class Main {
 		int[] num = {6,2,3,8};
 		System.out.print(mac.consecArray(num));
 		 */
-		
 		/**7.
 		 * almostIncreasingSequence ais = new almostIncreasingSequence();
 		int[] num = {1,3,2,1};
 		int[] num1 = {1,3,2};
 		System.out.print(ais.incSequence(num) + "\n" + ais.incSequence(num1));
 		 */
-		
 		/**9.
 		 * allLongestStrings als = new allLongestStrings();
 		String[] input = {"aba", "aa", "ad", "vcd", "aba"};
@@ -57,7 +50,6 @@ public class Main {
 			System.out.println(output[i]);
 		}
 		 */
-		
 		/**10 check and done
 		 * 
 		 */

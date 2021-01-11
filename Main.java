@@ -53,24 +53,20 @@ public class Main {
 		/**10 check and done
 		 * 
 		 */
-		
 		/**11.
 		 * isLucky il = new isLucky();
 		System.out.print(il.lucky(1230));
 		 */
-		
 		/**12.
 		 * 		sortHeight sh = new sortHeight();
 		int[] a = {-1, 150, 190, 170, -1, -1, 160, 180};
 		System.out.println(sh.sortByHeight(a));
 		 */
-
 		/**13.reverseInParen rip = new reverseInParen();
 		String in = "foo(bar(baz))blim";
 		System.out.print(rip.reverseInParentheses(in));
 		 * 
 		 */
-		
 		/**14.alterSum as = new alterSum();
 		int[] q1 = {100, 50};
 		int[] q2 = {50, 0};

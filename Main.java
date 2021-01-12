@@ -82,7 +82,6 @@ public class Main {
 		b.addBorder(q);
 		 * 
 		 */
-
 		/**16.
 		 * 
 		 */
